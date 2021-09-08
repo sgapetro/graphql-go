@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/sgapetro/graphql-go/introspection"
-	"github.com/sgapetro/graphql-go/types"
+	"github.com/graph-gophers/graphql-go/introspection"
+	"github.com/graph-gophers/graphql-go/types"
 )
 
 // Meta defines the details of the metadata schema for introspection.
