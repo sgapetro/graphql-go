@@ -1,6 +1,6 @@
 package types
 
-import "github.com/sgapetro/graphql-go/errors"
+import "github.com/graph-gophers/graphql-go/errors"
 
 // ExecutableDefinition represents a set of operations or fragments that can be executed
 // against a schema.

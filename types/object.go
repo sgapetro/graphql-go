@@ -1,6 +1,6 @@
 package types
 
-import "github.com/sgapetro/graphql-go/errors"
+import "github.com/graph-gophers/graphql-go/errors"
 
 // ObjectTypeDefinition represents a GraphQL ObjectTypeDefinition.
 //
